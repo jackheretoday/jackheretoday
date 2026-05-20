@@ -87,18 +87,6 @@ $ cat interests.txt
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackheretoday&show_icons=true&theme=github_dark&hide_border=true&title_color=f78166&icon_color=ffa657&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackheretoday&layout=compact&theme=github_dark&hide_border=true&title_color=f78166&text_color=c9d1d9)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jackheretoday&theme=github-dark-blue&hide_border=true&ring=f78166&fire=ffa657&currStreakLabel=79c0ff)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
