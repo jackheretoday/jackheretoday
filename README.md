@@ -107,7 +107,7 @@ const jay = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jackheretoday-181717?style=flat-square&logo=github)](https://github.com/jackheretoday)
-
+[!Linkedin](www.linkedin.com/in/jay-kshirsagar-763504237)
 </div>
 
 ---
