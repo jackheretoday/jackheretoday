@@ -107,7 +107,7 @@ const jay = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jackheretoday-181717?style=flat-square&logo=github)](https://github.com/jackheretoday)
-[!Linkedin](www.linkedin.com/in/jay-kshirsagar-763504237)
+[![Linkedin]([www.linkedin.com/in/jay-kshirsagar-763504237](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_Logo.svg&ved=0CBYQjRxqFwoTCMDBp7XqypQDFQAAAAAdAAAAABAF&opi=89978449))](www.linkedin.com/in/jay-kshirsagar-763504237)
 </div>
 
 ---
