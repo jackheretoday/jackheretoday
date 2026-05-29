@@ -87,17 +87,6 @@ $ cat interests.txt
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![AWS IoT](https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Biomedical Engineering](https://img.shields.io/badge/Biomedical%20Engineering-0A66C2?style=for-the-badge&logoColor=white)
-![Microsensors](https://img.shields.io/badge/Microsensors-00897B?style=for-the-badge&logoColor=white)
-![Implantable Devices](https://img.shields.io/badge/Implantable%20Devices-D81B60?style=for-the-badge&logoColor=white)
-![Neural Engineering](https://img.shields.io/badge/Neural%20Engineering-5E35B1?style=for-the-badge&logoColor=white)
-![Rodent Surgery](https://img.shields.io/badge/Rodent%20Surgery-6A1B9A?style=for-the-badge&logoColor=white)
-![Biomechanics](https://img.shields.io/badge/Biomechanics-1565C0?style=for-the-badge&logo=googlefit&logoColor=white)
-![Biomedical Research](https://img.shields.io/badge/Biomedical%20Research-2E7D32?style=for-the-badge&logoColor=white)
-![Advanced Robotics](https://img.shields.io/badge/Advanced%20Robotics-F57C00?style=for-the-badge&logo=robotframework&logoColor=white)
-![Human Machine Interface](https://img.shields.io/badge/Human--Machine%20Interface-455A64?style=for-the-badge&logoColor=white)
-![Sensor Systems](https://img.shields.io/badge/Sensor%20Systems-00838F?style=for-the-badge&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
