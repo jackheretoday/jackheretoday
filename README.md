@@ -87,6 +87,9 @@ $ cat interests.txt
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![AWS IoT](https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+![Neurology](https://img.shields.io/badge/Neurology-6A1B9A?style=for-the-badge&logo=brain&logoColor=white)
+![Biomechanics](https://img.shields.io/badge/Biomechanics-1565C0?style=for-the-badge&logo=googlefit&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
