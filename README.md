@@ -73,9 +73,6 @@ $ cat interests.txt
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ![AWS](https://shields.io)
-![Amazon EC2](https://img.### AWS Cloud Badges
-
-![AWS](https://shields.io)
 ![Amazon EC2](https://shields.io)
 ![Amazon S3](https://shields.io)
 ![AWS Lambda](https://shields.io)
